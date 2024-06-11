@@ -1,0 +1,3 @@
+A <adjective> <animal> found a <adjective> <object> in the <place>.
+Excited, it showed <name> the <object>.
+Together, they used it to <verb> to a <adjective> <place>, where they met a <adjective> <creature> and lived <adverb> ever after.
